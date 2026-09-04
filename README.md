@@ -93,10 +93,6 @@ const Rodrigo = {
 
 `Git` `GitHub` `Docker` `Postman` `npm` `pnpm` `VS Code` `Visual Studio`
 
-**Cloud**
-
-`Azure` `Vercel`
-
 **Security & Payments**
 
 `JWT` `Authentication` `Authorization` `Roles & Permissions` `Mercado Pago`
@@ -169,60 +165,6 @@ Some of the functionality I've developed includes:
 * 🔐 Access control
 * 📊 Metrics and dashboards
 * 🔥 Firebase synchronization
-
----
-
-## 🏢 Professional Experience
-
-### Frontend Developer — Sovetec S.A. de C.V. / Blundey S.A. de C.V.
-
-**January 2025 – Present**
-
-* Development of customized ERP systems for internal business processes.
-* Authentication and authorization using JWT, roles and permissions.
-* Development of responsive interfaces and landing pages.
-* Performance and SEO optimization.
-* Development of an e-commerce platform with catalog, cart, orders and inventory.
-* Mercado Pago payment integration.
-* Process optimization through ERP solutions, achieving a reported **80% improvement**.
-
-### Frontend Developer — Sovetec S.A. de C.V.
-
-**August 2023 – December 2024**
-
-* Development of ERP interfaces for monitoring and managing IoT flow meters.
-* Historical data visualization and real-time updates.
-* Components for metrics, device locations and status.
-* Integration with backend services for users, authentication, payments and access control.
-
-### Developer — Beniplas S.A. de C.V.
-
-**August 2022 – August 2023**
-
-* Development of an IoT system for electronic locks using Arduino.
-* Hardware integration with Firebase.
-* Real-time state synchronization.
-* RFID access control and security codes.
-
-### Software Developer — Ferreca
-
-**Independent Project**
-
-* Development and deployment of a web-based Point of Sale (POS) system.
-* Sales registration and inventory management.
-* Ticket generation.
-* User management.
-* Adaptation of the system to the business's operational processes.
-
----
-
-## 🎓 Education
-
-**Software Engineering**
-Universidad Politécnica de Tecámac · 2021–2025
-
-**Computer-Aided Design Technician**
-CBT No. 1 Jorge Jiménez Cantú · 2018–2021
 
 ---
 
