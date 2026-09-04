@@ -64,11 +64,6 @@ const Rodrigo = {
     "Visual Studio"
   ],
 
-  cloud: [
-    "Azure",
-    "Vercel"
-  ],
-
   currentlyLearning: [
     "Cloud",
     "Docker",
