@@ -29,8 +29,7 @@ const Rodrigo = {
 
   backend: [
     "Node.js",
-    "Express",
-    ".NET"
+    "Express"
   ],
 
   databases: [
