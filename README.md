@@ -33,10 +33,7 @@ const Rodrigo = {
   ],
 
   databases: [
-    "PostgreSQL",
-    "MySQL",
-    "SQL Server",
-    "MongoDB"
+    "PostgreSQL"
   ],
 
   apisAndServices: [
