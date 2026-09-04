@@ -15,7 +15,7 @@ const Rodrigo = {
   code: [
     "JavaScript",
     "TypeScript",
-    "C#",
+    "Python",
     "SQL"
   ],
 
