@@ -239,8 +239,6 @@ I'm constantly working on personal projects and improving my:
 * ⚡ Application performance
 * 🎨 UI/UX
 * 🔐 Application security
-* ☁️ Cloud technologies
-* 🐳 Docker & containerization
 * ⚛️ Advanced Next.js
 
 I like understanding **how things work**, not just making them work.
