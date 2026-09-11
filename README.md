@@ -10,7 +10,7 @@ I enjoy turning ideas and business requirements into functional products, with a
 const Rodrigo = {
   role: "Frontend Developer",
 
-  experience: "2+ year",
+  experience: "3+ year",
 
   code: [
     "JavaScript",
